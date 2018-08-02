@@ -1,0 +1,6 @@
+{
+  "PRICE_UPDATING_INTERVAL" : 3600000,
+  "NODE_URL" : "http://rpc.tron.watch:8091",
+  "WEBSOCKET_PORT" : 8080,
+  "STORE_FILE" : "store.json"
+}

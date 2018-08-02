@@ -1,0 +1,14 @@
+{
+  "name": "TronLink-Websocket-Server",
+  "version": "1.0.0",
+  "description": "Simple websocket server that connects to a node, and notifies connected clients of transactions concerning their addresses.",
+  "main": "index.js",
+  "repository": "https://github.com/TronWatch/TronLink-Websocket-Server.git",
+  "author": "TronWatch",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "jssha": "^2.3.1",
+    "ws": "^6.0.0"
+  }
+}
